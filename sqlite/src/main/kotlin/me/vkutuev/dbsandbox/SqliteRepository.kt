@@ -2,7 +2,9 @@ package me.vkutuev.dbsandbox
 
 import mu.KotlinLogging
 import java.io.Closeable
-import java.sql.*
+import java.sql.DriverManager
+import java.sql.SQLException
+import java.sql.Types
 
 private val logger = KotlinLogging.logger { }
 

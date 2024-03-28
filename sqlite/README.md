@@ -51,5 +51,5 @@ sqlite3 jdbc_database.db
 ## Запуск примера
 
 ```bash
-./gradlew :sqlite:run
+../gradlew :sqlite:run
 ```

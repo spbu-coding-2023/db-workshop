@@ -1,6 +1,6 @@
 plugins {
     // Apply the org.jetbrains.kotlin.jvm Plugin to add support for Kotlin.
-    id("org.jetbrains.kotlin.jvm") version "1.8.10"
+    id("org.jetbrains.kotlin.jvm") version "1.9.23"
 
     // Apply the application plugin to add support for building a CLI application in Java.
     application
@@ -26,4 +26,3 @@ application {
     // Define the main class for the application.
     mainClass.set("me.vkutuev.dbsandbox.SqliteAppKt")
 }
-1

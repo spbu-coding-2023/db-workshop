@@ -51,5 +51,5 @@ sqlite3 exposed_database.db
 ## Запуск примера
 
 ```bash
-./gradlew :sqlite-exposed:run
+../gradlew :sqlite-exposed:run
 ```

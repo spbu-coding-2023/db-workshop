@@ -1,14 +1,13 @@
 # Базы данных
 
 ## Структура репозитория
-- `presentation/` - презентация с занятия
-- `neo4j/` - пример с графовой СУБД Neo4j
-- `sqlite/` - пример с реляционной СУБД SQLite (взаимодействие через JDBC)
-- `sqlite-exposed/` - пример с реляционной СУБД SQLite (взаимодействие через 
-ORM JetBrains Exposed)
+- `📁 presentation/` - презентация с занятия
+- `📁 neo4j/` - пример с графовой СУБД Neo4j
+- `📁 sqlite/` - пример с реляционной СУБД SQLite (взаимодействие через JDBC)
+- `📁 sqlite-exposed/` - пример с реляционной СУБД SQLite (взаимодействие через ORM JetBrains Exposed)
 
 ## Материалы для более подробного изучения
-- [Java JDBC API](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+- [Java JDBC](https://docs.oracle.com/en/database/oracle/oracle-database/23/jjdbc/introducing-JDBC.html)
 - [Exposed](https://github.com/JetBrains/Exposed)
 - [Get started with Neo4j](https://neo4j.com/docs/getting-started/current/get-started-with-neo4j/#get-started-with-neo4j)
 - [The Neo4j Cypher Manual v5](https://neo4j.com/docs/cypher-manual/5/introduction/)
